@@ -24,3 +24,7 @@ Posts submissions to chosen subreddit at chosen times of the day
 -   There are 2 example post files in `/posts` for you to edit/copy/delete.
 -   If you're not using Unix you won't see the colours in the terminal (command prompt). Follow [THIS](https://recycledrobot.co.uk/words/?print-python-colours) tutorial to get them working.
 -   I will not be held responsible for any bad things that might happen to you or your Reddit account whilst using this bot. Follow Reddiquette and stay safe.
+
+### Tip
+
+BTC - 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
